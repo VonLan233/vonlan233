@@ -41,7 +41,8 @@ Email:vonlan233@gmail.com, SWE2309518@xmu.edu.my
    ### Study Achievement
    
 Language 
-- [x] C/C++  
+- [x] C/C++
+- [x] Python
 
 Projects
 - [x] Nanying Cup Debate Competiton timer updater
